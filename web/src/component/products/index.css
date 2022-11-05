@@ -1,0 +1,176 @@
+.errorMessage {
+  color: red;
+  font-size: 10px;
+}
+
+.product-parent {
+  box-shadow: rgb(218 217 217 / 50%) 0px 5px 5px !important;
+  background-color: rgb(255, 255, 255);
+  /* padding: 13px; */
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  width: 250px;
+  margin-left: 20px;
+  border-radius: 4px;
+}
+
+.parant {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.Update-name {
+  background-color: aqua;
+}
+
+.product-name {
+  align-items: center;
+  display: flex;
+  font-weight: bold;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.button {
+  background: #819aa5;
+  margin: 20px auto;
+  width: 50%;
+  height: 27px;
+  overflow: hidden;
+  text-align: center;
+  transition: 0.2s;
+  cursor: pointer;
+  border-radius: 3px;
+  box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.2);
+  align-items: center;
+  margin-top: 5px;
+  margin-right: 5px;
+}
+.button2 {
+  background: #839198;
+  margin: 20px auto;
+  width: 50%;
+  height: 27px;
+  overflow: hidden;
+  text-align: center;
+  transition: 0.2s;
+  cursor: pointer;
+  border-radius: 3px;
+  box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.2);
+  align-items: center;
+  margin-top: 5px;
+  margin-left: 5px;
+}
+
+.btn2text {
+  color: white;
+  transition: 0.3s;
+  margin-top: 3px;
+}
+.btnTwo {
+  position: relative;
+  width: 159px;
+  height: 100px;
+  margin-top: -103px;
+  padding-top: 2px;
+  background: #a62626;
+  left: -240px;
+  transition: 0.3s;
+}
+.btn2 {
+  position: relative;
+  width: 159px;
+  height: 100px;
+  margin-top: -103px;
+  padding-top: 2px;
+  background: #eab402;
+  left: -240px;
+  transition: 0.3s;
+}
+
+.btnText2 {
+  margin-top: 71px;
+  margin-right: -130px;
+  color: #fff;
+}
+
+.btnText {
+  color: white;
+  transition: 0.3s;
+  margin-top: 3px;
+}
+
+.btntext32 {
+  margin-top: 73px;
+  margin-right: -130px;
+  color: black;
+}
+.button2:hover .btn2 {
+  left: -130px;
+}
+.button2:hover .btn2text {
+  margin-left: 32px;
+}
+.button2:active {
+  box-shadow: 0px 5px 6px rgba(0, 0, 0, 0.3);
+}
+
+.button:hover .btnTwo {
+  left: -130px;
+}
+.button:hover .btnText {
+  margin-left: 32px;
+}
+.button:active {
+  box-shadow: 0px 5px 6px rgba(0, 0, 0, 0.3);
+}
+
+img {
+  width: 100%;
+  height: 150px;
+  object-fit: contain;
+  /* border: 1px solid red; */
+}
+.product-img {
+  background-size: cover;
+  display: flex;
+  margin-bottom: 15px;
+}
+
+.inp-2 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.btn-container {
+  display: flex;
+  margin-top: 6px;
+}
+
+.img {
+  width: 20px;
+  height: 14px;
+}
+.product-price {
+  display: flex;
+  justify-content: space-between;
+  color: rgb(255, 170, 0);
+  font-size: bold;
+  margin-bottom: 42px;
+}
+
+.conditon {
+  font-weight: bold;
+  letter-spacing: 1px;
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: flex-end;
+}
+.descri {
+  margin-top: 10px;
+}
+.information {
+  padding: 1px 12px 1px 12px;
+}

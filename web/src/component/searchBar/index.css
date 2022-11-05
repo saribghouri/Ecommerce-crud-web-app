@@ -1,0 +1,13 @@
+.search{
+    margin-top: 5px;
+    /* box-shadow: none; */
+    margin-left: 27px;
+}
+.search{
+    box-shadow:  none;
+}
+
+.credit{
+    margin-top: 10px;
+    font-size: 10px;
+}

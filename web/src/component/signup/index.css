@@ -1,0 +1,53 @@
+.signUp {
+  color: black !important;
+  background-color: rgb(255, 198, 10) !important;
+  font-size: 11px !important;
+}
+
+.avator {
+  color: rgb(57, 57, 57) !important;
+  background-color: rgb(255, 198, 10) !important;
+}
+
+.payment-card {
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 22px;
+  /* width: 100%; */
+}
+
+.payment-parent {
+  /* border: 1px solid black; */
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  padding: 15px;
+}
+.purchase {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  width: 100%;
+  border-radius: 5px;
+  background-color: rgb(2, 129, 108);
+  color: white;
+}
+
+.purchase-parent {
+  display: flex;
+  width: 100%;
+}
+
+.CardElement {
+  margin-bottom: 10px;
+}
+
+.card-form {
+  border-radius: 5px;
+  border: 1px solid;
+  margin-bottom: 13px;
+  padding: 10px;
+  font-size: -20px;
+  color: black;
+}

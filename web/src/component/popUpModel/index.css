@@ -1,0 +1,17 @@
+.update-parent {
+  flex-wrap: wrap;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  width: 80%;
+}
+.update-parent div {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 5px;
+}
+
+.modal-heading{
+
+    text-align: center;
+}

@@ -1,0 +1,71 @@
+.signIn {
+  color: black !important;
+  background-color: rgb(255, 198, 10) !important;
+  font-size: 10px !important;
+}
+#code {
+  width: 300px !important;
+  height: 30px;
+  margin-top: 20px;
+}
+
+.submitbtn {
+  width: 185.5px;
+  color: black !important;
+  background-color:rgb(255, 168, 28)!important;
+  border: none !important;
+  border-radius: 5px;
+  margin-top: 10px;
+  color: aliceblue;
+}
+.submitbtn:hover{
+  box-shadow: rgba(148, 146, 146, 0.5) 0px 5px 10px 1px !important;
+   background : #26A69A;
+}
+
+.parent {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#name {
+  width: 300px;
+  height: 30px;
+}
+
+#price {
+  width: 300px;
+  margin-top: 20px;
+  height: 30px;
+}
+
+#description {
+  width: 300px;
+  margin-top: 20px;
+  height: 30px;
+}
+
+.submitbtn {
+  width: 300px;
+  margin-top: 20px;
+  height: 30px;
+  border: 1px solid;
+}
+
+.add-product {
+  margin: 1em 0 0.5em 0;
+  color: #343434;
+  font-weight: normal;
+  font-family: "Ultra", sans-serif;
+  font-size: 34px;
+  line-height: 42px;
+  text-transform: uppercase;
+  text-shadow: 0 2px white, 0 3px #777;
+}
+#condition {
+  width: 300px;
+  margin-top: 20px;
+  height: 30px;
+}
